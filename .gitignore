@@ -1,0 +1,15 @@
+# Next.js
+.next/
+out/
+
+# Node
+node_modules/
+
+# Generated
+next-env.d.ts
+
+# Misc
+.DS_Store
+*.pem
+.env*
+!.env.example
