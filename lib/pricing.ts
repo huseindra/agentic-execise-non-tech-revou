@@ -1,3 +1,3 @@
 export function getAnnualPrice(monthlyPrice: number): number {
-  return monthlyPrice * 12 * 0.2;
+  return monthlyPrice * 12 * 0.8;
 }
