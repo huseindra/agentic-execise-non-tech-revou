@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Pricing',
-  description: 'Simple, transparent pricing for every team.',
+  title: 'Meeting Copilot',
+  description: 'Turn meeting notes into action items, strategic advice, and deadline reminders.',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
